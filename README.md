@@ -78,6 +78,9 @@ Outputs the version of CodeEdit and CodeEdit CLI Tools.
 ```sh
 codemaster version
 ```
+```sh
+codemaster --v
+```
 
 ### `new-window` (not available yet)
 
@@ -118,6 +121,12 @@ Documentation coming soon.
 ### `deactivate` (not available yet)
 
 Deactivate an extension.
+
+Documentation coming soon.
+
+### `codemaster -help` (not available yet)
+
+List all cmds.
 
 Documentation coming soon.
 
