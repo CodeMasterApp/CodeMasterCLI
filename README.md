@@ -130,6 +130,13 @@ List all cmds.
 
 Documentation coming soon.
 
+### `new` (not available yet)
+
+Create a new file
+
+```sh
+codemaster new filename.extension
+```
 
 ## Related Repositories
 <!--
