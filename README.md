@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="logo" height="128">
+  <img src="https://github.com/CodeMasterApp/CodeMaster/blob/main/CodeMaster/CodeMaster/Assets.xcassets/AppIcon.appiconset/Flare.png" alt="logo" height="128">
   <h1 align="center">CodeMaster CLI</h1>
 </p>
 
