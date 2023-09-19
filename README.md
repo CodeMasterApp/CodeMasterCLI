@@ -135,7 +135,7 @@ Documentation coming soon.
 Create a new file
 
 ```sh
-codemaster new filename.extension
+codemaster new -f filename.extension
 ```
 
 ## Related Repositories
